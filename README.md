@@ -11,3 +11,6 @@ These directories contain their own README.md with their own instructions.
 - [stuck](stuck)
 - [velato](velato)
 - [whitespace](whitespace)
+
+If you want to learn how to be a better
+developer in 4 minutes, then [sign up here](https://dreamsofcode.io).
