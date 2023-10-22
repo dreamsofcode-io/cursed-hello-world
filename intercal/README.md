@@ -20,3 +20,9 @@ Inside the tools directory is a python script called print.py.
 Using this script, you can derive the values you need for printing an array
 to stdout. Just change the input the to `figureout` function and then
 use the output as the values for your INTERCAL array.
+
+## References
+
+Figuring out INTERCAL was impossible without this site
+
+- http://progopedia.com/example/hello-world/257/
