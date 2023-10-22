@@ -1,4 +1,4 @@
-# Cursed Hello World
+# Cursed Hello World 😰
 
 This repo contains code for the video on the cursed hello world programming languages.
 
